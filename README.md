@@ -1,6 +1,6 @@
 # Mi Portafolio Profesional
 
-Bienvenido a mi portafolio profesional, desarrollado con HTML, CSS y JavaScript. Este proyecto muestra mi experiencia, habilidades y trabajos más destacados.
+Bienvenido a mi portafolio profesional, desarrollado con HTML, CSS y JavaScript. 
 
 ## About
 
@@ -16,8 +16,5 @@ La sección "Proyectos" muestra algunos de los trabajos más significativos en l
 
 ## Contact
 
-En la sección "Contact", ofrezco varias formas de ponerse en contacto conmigo. Ya sea a través de correo electrónico, redes sociales o un formulario de contacto, esta sección facilita la comunicación para potenciales empleadores o colaboradores.
+En la sección "Contact", ofrezco un formulario en el que puedes ingresar tus datos y enviarme un mensaje por correo electronico
 
----
-
-Espero que esta versión del `README.md` sea útil para ti. Si necesitas más detalles o quieres ajustar algo específico, ¡házmelo saber! 😊
